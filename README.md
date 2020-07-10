@@ -1,1 +1,1 @@
-# jennypark
+# Simple portfolio site
